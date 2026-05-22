@@ -119,6 +119,7 @@ body {
 .jumbotron p {
   color: #000000;
   text-align: right;
+  font-weight: bold;
 }
 
 .jumbotron .btn {
